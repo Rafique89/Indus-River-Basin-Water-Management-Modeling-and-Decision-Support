@@ -4,7 +4,7 @@ University of Utah and Mehran University of Engineering & Technology
 
 -----------
 ## Repository Content
-* [Objectives](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Objectives.md)
+* [Objectives](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/tree/master/Objectives)
 * [Objective 1]:
 * [Objective 2]:
 * [Objective 3]:
