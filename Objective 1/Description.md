@@ -8,30 +8,30 @@ Analyzing the demand and supply situation of each canal command area. It was obs
 While looking at different population growth scenarios, it was observed that the domestic water demand would be difficult to fulfill by the canal water by 2025. Canal command area in which there are big cities especially Kotri, there will be significant management issues regarding prioritizing high the water for the use of domestic than of agriculture.
 Integrated data sharing and system model implemented through this grant is the step towards introducing the methods to be used in Pakistan to manage the system in an integrated manner. Future improvements and outreach are of prime importance to sustain the developed prototype in this project. The way forward for;
 
-## Data Management and Sharing
+### Data Management and Sharing
 
-•	Register the departments that intend to share their data and need technical help. Once departments are registered and start sharing the data, then it can be used as a demonstration case to attract other departments to manage and efficiently share their data. Once the departments come in the loop, then it will be easy to standardize the data in one database.
-•	Build capacity of the registered departments to upload and share the data on the web-based portal. Initially, that can be done on the web portal implemented in this research project, which further can be modified at the departmental level, considering the details needs of the departments in the water sector.
-•	Approval of the standard protocols for central data sharing.
-•	Approval of the controlled vocabulary of the variables that departments need to share nationally and internationally.
-•	Program to increase the awareness of the importance of central data sharing in the water sector.
-•	Encourage the policymaker to build a separate department that handles the central data repository.
+1. Register the departments that intend to share their data and need technical help. Once departments are registered and start sharing the data, then it can be used as a demonstration case to attract other departments to manage and efficiently share their data. Once the departments come in the loop, then it will be easy to standardize the data in one database.
+2. Build capacity of the registered departments to upload and share the data on the web-based portal. Initially, that can be done on the web portal implemented in this research project, which further can be modified at the departmental level, considering the details needs of the departments in the water sector.
+3. Approval of the standard protocols for central data sharing.
+4. Approval of the controlled vocabulary of the variables that departments need to share nationally and internationally.
+5. Program to increase the awareness of the importance of central data sharing in the water sector.
+6. Encourage the policymaker to build a separate department that handles the central data repository.
 
-## Model application and enhancement
+### Mode l Application and Enhancement
 
-•	The model should be handed over to the concerned department so that they can run the scenarios that are of their importance.
-•	Training sessions should be organized within the concerned departments to build the capacity of the department to modify, simulate and test the scenarios
-•	The model implemented is at the barrage command level, this aggregation unit should be scaled down to the canal command area to address the issues at the canal command area. Further for more detail analysis, this has to scale down to distributary level to answer the question related to the management questions and livelihood of people.
-•	This model is capable of solving scenarios for the interprovincial questions but is not capable of answer the question within or between the canal commands. In line, departments should be taken on board to consolidate the data on the canal command level and enhance mode l, such that it can also be used to test management scenario at the canal command level
-•	Hydropower production node is not modeled, to answer the production question that needs to model in detail.
-•	Model system boundaries do not include the upper Indus basin model that needs to be implemented to answer the question of climate change. Catchment modeling need to performed to see the response on the hydrograph due to changing the climate.
-•	Groundwater usage is not simulated in the present model. The implemented model only provided a tool to test the surface water system. As it is a second largest source of irrigation, it should be integrated into the system model.
+1. The model should be handed over to the concerned department so that they can run the scenarios that are of their importance.
+2. Training sessions should be organized within the concerned departments to build the capacity of the department to modify, simulate and test the scenarios
+3. The model implemented is at the barrage command level, this aggregation unit should be scaled down to the canal command area to address the issues at the canal command area. Further for more detail analysis, this has to scale down to distributary level to answer the question related to the management questions and livelihood of people.
+4. This model is capable of solving scenarios for the interprovincial questions but is not capable of answer the question within or between the canal commands. In line, departments should be taken on board to consolidate the data on the canal command level and enhance mode l, such that it can also be used to test management scenario at the canal command level
+5. Hydropower production node is not modeled, to answer the production question that needs to model in detail.
+6. Mode l system boundaries do not include the upper Indus basin model that needs to be implemented to answer the question of climate change. Catchment modeling need to performed to see the response on the hydrograph due to changing the climate.
+7. Groundwater usage is not simulated in the present model. The implemented model only provided a tool to test the surface water system. As it is a second largest source of irrigation, it should be integrated into the system model.
 
-## Water system management
+### Water System Management
 
 Based on the analysis done in this project. Following recommendations are provided to manage the demand and supply in canal command area.
-For increasing the irrigation intensities in southern areas, the cropping pattern needs to be modified. For example in Rabi season Oilseed or Pulses may be preferred instead of wheat. They not only consume less water but also possess high economic value as compared to wheat. Therefore, these two crops are good option to increase the economic output and area under cultivation. Similarly in Kharif sorghum may be grown in combination with rice in alternate furrows.
-•	The telemetry data at the critical location can help in reducing the mistrust among the province.
-•	The transparent operations rules of CJ link and Mangla Dam must be formulated, to ensure the equitable share of lower riparian provinces
-•	Province of Sindh has to implement policies to reduce its water use, as it is at the disadvantageous end for being a lower riparian and highly dependent on the surface water. It also has canal command area that will have higher domestic demand in the future. Proper management policies should be implemented in Sindh to meet the domestic and agriculture demand in future.
+1. For increasing the irrigation intensities in southern areas, the cropping pattern needs to be modified. For example in Rabi season Oilseed or Pulses may be preferred instead of wheat. They not only consume less water but also possess high economic value as compared to wheat. Therefore, these two crops are good option to increase the economic output and area under cultivation. Similarly in Kharif sorghum may be grown in combination with rice in alternate furrows.
+2. The telemetry data at the critical location can help in reducing the mistrust among the province.
+3. The transparent operations rules of CJ link and Mangla Dam must be formulated, to ensure the equitable share of lower riparian provinces
+4. Province of Sindh has to implement policies to reduce its water use, as it is at the disadvantageous end for being a lower riparian and highly dependent on the surface water. It also has canal command area that will have higher domestic demand in the future. Proper management policies should be implemented in Sindh to meet the domestic and agriculture demand in future.
 
