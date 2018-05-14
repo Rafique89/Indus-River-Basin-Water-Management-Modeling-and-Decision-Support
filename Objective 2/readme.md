@@ -4,5 +4,5 @@
 
 Folder |  Description
 --- | ---
-Description | Descrition of the Objective 2
-Data | Presenataions and journal articles related to Objective 2
+Description | Description of the Objective 2
+Data | Presentations and journal articles related to Objective 2
