@@ -4,6 +4,9 @@
 University of Utah and Mehran University of Engineering & Technology
 
 -----------
+### Indus Basin
+![Indus Basin](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Indus.JPG)
+
 ### Flowchart
 ![Flowchart](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Flowchart.png)
 
