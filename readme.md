@@ -39,7 +39,7 @@ The goals of objective 1 were to establish a data sharing portal and develop wat
 Provide brief description here
 
 #### Objective 3
-Provide brief description here
+The changing climate and increasing population in developing are the most influential factors relayed to water scarcity and food security. Based on these two critical factors, objective 3 focuses towards creation of system dynamic model to model the impacts of population increase and climate change on agriculture sector. And the results based on different intervention strategies in system dynamic modeling will be used to implement strategies in agriculture sector for achieving food security and sustainable development goals. 
 
 #### Objective 4
 Provide brief description here
