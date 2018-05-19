@@ -33,7 +33,7 @@ The USAID-funded U.S.-Pakistan Center for Advanced Studies in Pakistan (USPCAS-W
 
 #### Objective 1 
 
-The water crisis in Pakistan is not only due to water scarcity but also due to lack of governance for implementing effective water management strategies. Keeping in mind the present and future water crisis, the feasible management strategies can only be implemented when the options are evaluated in an integrated way and presented to stakeholder with strong evidence supported by scientific data. Thus a project under the umbrella of USPCASW was developed under the theme of strengthening the water governance. The prime goal of the project was to develop a baseline model and data dissemination portal for decision making for water resources and planning at the country level. 
+The goals of objective 1 were to establish a data sharing portal and develop water management model for informed decision making among organizations responsible for water planning and governance at national level. And the second goal was capacity building of water management sector for implementing the portal and water management model to develop a decision support system for improving water governance to tackle any future water crisis in Pakistan.  
 
 #### Objective 2
 Provide brief description here
