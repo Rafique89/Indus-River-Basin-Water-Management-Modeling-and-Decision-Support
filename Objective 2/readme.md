@@ -9,4 +9,4 @@ Detailed description of the objective
 Folder |  Description
 --- | ---
 Description | Description of the Objective 2
-Data | Presentations and journal articles related to Objective 2
+Data | Presentations, journal articles and conference proceeding related to Objective 2
