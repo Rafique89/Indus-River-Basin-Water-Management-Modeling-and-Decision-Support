@@ -33,7 +33,7 @@ The USAID-funded U.S.-Pakistan Center for Advanced Studies in Pakistan (USPCAS-W
 
 #### Objective 1 
 
-The goals of objective 1 were to establish a data sharing portal and develop water management model for informed decision making among organizations responsible for water planning and governance at national level. And the second goal was capacity building of water management sector for implementing the portal and water management model to develop a decision support system for improving water governance to tackle any future water crisis in Pakistan.  
+The goals of this objective were to establish a data sharing portal and develop water management model for informed decision making among organizations responsible for water planning and governance at national level. And the second goal was capacity building of water management sector for implementing the portal and water management model to develop a decision support system for improving water governance to tackle any future water crisis in Pakistan.  
 
 #### Objective 2
 Provide brief description here
