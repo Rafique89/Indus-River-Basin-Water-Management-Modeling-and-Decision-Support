@@ -38,3 +38,5 @@ Based on the analysis done in this project. Following recommendations are provid
 3. The transparent operations rules of CJ link and Mangla Dam must be formulated, to ensure the equitable share of lower riparian provinces
 4. Province of Sindh has to implement policies to reduce its water use, as it is at the disadvantageous end for being a lower riparian and highly dependent on the surface water. It also has canal command area that will have higher domestic demand in the future. Proper management policies should be implemented in Sindh to meet the domestic and agriculture demand in future.
 
+![List of Products](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Objective%201%20Products.PNG)
+
