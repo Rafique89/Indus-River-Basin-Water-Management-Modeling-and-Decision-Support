@@ -13,18 +13,23 @@ The WEAP model results of current practices of the Tarbela dam showed that the s
 Tarbela Dam rule curve
 
 ![Maximum hydraulic outflow](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Max%20hydraulic%20outflow.PNG)
+
 Maximum hydraulic outflow from the reservoir
 
 ![RRV improvement](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/RRV%20Improvement.PNG)
+
 Improvement in reliability, resilience and vulnerability for hydropower and irrigation
 
 ![Contour plot](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Contour%20plot.PNG)
+
 Contour Plot of the Sensitivity of Water Demand Resilience to the Inflow and Demand Changes
 
 ![Mangla rule curve](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Magle%20rule%20curve.PNG)
+
 Variation of rule curve for Mangla Dam
 
 ![Irrigation resilience variation](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/irrigation%20resilince%20variation.PNG)
+
 Variation of irrigation resilience with change in inflow and demand
 
 The research concluded that the changes in the rule curve coupled with structural upgradation has the potential to improve the performance of the system. The most important operational change in the rule curve for Tarbela and Mangla is of shifting of the minimum reservoir level earlier in the month. This change complemented the demand and releases from the reservoirs for the hydropower and water supply objective for the Mangla reservoir. Historically, the minimum level in the reservoirs correspond to high supply demands during that period but the hydropower objective, which required a certain water head during the same period, was ignored. The shifting of the minimum reservoir earlier in the month provided the much-needed static head in the reservoir without impacting the downstream irrigation demands. The increased hydraulic outflow from the Tarbela facilitated in improved flexibility of the releases before the flood event by regulating the releases within the established outflows. The impact of the hydraulic outflow was negligible for the Mangla because of the fact that it was already increased to the desirable flow.
@@ -35,9 +40,11 @@ An integrated WEAP model was developed for the LIB (Sindh Province) consisting o
 The model result showed that the historical performance (1990-2015) in terms of RRV for Guddu Barrage was 0.93, 0.01, and 0.03 respectively, for Sukkur Barrage was 0.72, 0.02, and 0.09 respectively, and for Kotri Barrage was 0.62, 0.09, and 0.19 respectively. For future period, the reliability for Guddu, Sukkur, and Kotri Barrages are 0.71, 0.69, and 0.61 respectively. The Vulnerability of the Barrages would increase (worsen) in future, where it was A for Guddu, B for Sukkur and C for Kotri Barrage, respectively. As the results indicated the lower reliability and higher Vulnerability for the future period, therefore, three different demand management solutions, drip irrigation, sprinkler irrigation, and the lining of canals were employed in WEAP as a solution to improve the system performance. At Guddu Barrage, the reliability for drip, sprinkler, and the lining were determined to be 0.87, 0.82 and 0.77, respectively. At Sukkur Barrage, reliability was estimated to be 0.91, 0.87 and 0.81, respectively. Whereas, at Kotri Barrage it was assessed as 0.81, 0.77 and 0.76, respectively. Vulnerability at Guddu Barrage using a drip irrigation system, sprinkler, and Sukkur barrage canals lining resulted in 0.23, 0.29, and 0.45, for Sukkur, it was 0.06, 0.09, 0.14, and for Kotri vulnerability was 0.12, 0.18, and 0.32 respectively. The Drip, Sprinkler irrigation systems and lining of the Sukkur Barrage canals significantly improved the reliability and reduced the vulnerability of the system.
 
 ![Pre Accord RRV](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Pre%20accord%20rrv.PNG)
+
 Pre-Accord Reliability, Resiliency and Vulnerability, a) Kharif-Guddu Barrage b) Kharif-Sukkur Barrage c) Kharif-Kotri Barrage d) Rabi-Guddu Barrage e) Rabi-Sukkur Barrage, and f) Rabi-Kotri Barrage
 
 ![Post Accord RRV](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/post%20accord%20rrv.PNG)
+
 Post-Accord Reliability, Resiliency and Vulnerability, a) Kharif-Guddu Barrage b) Kharif-Sukkur Barrage c) Kharif-Kotri Barrage d) Rabi-Guddu Barrage e) Rabi-Sukkur Barrage, and f) Rabi-Kotri Barrage
 
 The historical assessment of the accord showed that the system was already underperforming, and situation is expected to get worsen in the near future. It is high time to adapt the demand management solutions for the agricultural practices for the Sindh Province to meet the ever increasing demand of the province under the limited share of the available water from Indus. 
