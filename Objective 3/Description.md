@@ -27,7 +27,7 @@ Contour Plot of the Sensitivity of Water Demand Resilience to the Inflow and Dem
 
 ![Mangla rule curve](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Magle%20rule%20curve.PNG)
 
-Variation of rule curve for Mangla Dam
+Alteration of rule curve for Mangla Dam
 
 ![Irrigation resilience variation](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/irrigation%20resilince%20variation.PNG)
 
