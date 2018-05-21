@@ -16,6 +16,7 @@ Tarbela Dam rule curve
 
 Maximum hydraulic outflow from the reservoir
 
+
 ![RRV improvement](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/RRV%20Improvement.PNG)
 
 Improvement in reliability, resilience and vulnerability for hydropower and irrigation
