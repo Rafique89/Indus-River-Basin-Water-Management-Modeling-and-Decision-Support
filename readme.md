@@ -36,7 +36,7 @@ The USAID-funded U.S.-Pakistan Center for Advanced Studies in Pakistan (USPCAS-W
 The goals of this objective were to establish a data sharing portal and develop water management model for informed decision making among organizations responsible for water planning and governance at national level. And the second goal was capacity building of water management sector for implementing the portal and water management model to develop a decision support system for improving water governance to tackle any future water crisis in Pakistan.  
 
 #### Objective 2
-Provide brief description here
+Indus Basin is one of the largest river basins in the world, which provides a major portion of water to the population of approximaytely 100 million. The future availability of the water due to uncertainty in precipitation and temperature possess an immense threat for the inhabitants of this area. It is therefore important to quantify the changes in the future precipitation and temperature to determine the probable impacts on the water availability and hence providing a way forward to improve the system efficiency.
 
 #### Objective 3
 Provide brief intro here
