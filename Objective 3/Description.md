@@ -49,3 +49,6 @@ Pre-Accord Reliability, Resiliency and Vulnerability, a) Kharif-Guddu Barrage b)
 Post-Accord Reliability, Resiliency and Vulnerability, a) Kharif-Guddu Barrage b) Kharif-Sukkur Barrage c) Kharif-Kotri Barrage d) Rabi-Guddu Barrage e) Rabi-Sukkur Barrage, and f) Rabi-Kotri Barrage
 
 The historical assessment of the accord showed that the system was already underperforming, and situation is expected to get worsen in the near future. It is high time to adapt the demand management solutions for the agricultural practices for the Sindh Province to meet the ever increasing demand of the province under the limited share of the available water from Indus. 
+
+### List of Products
+![Products](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Obj%203%20products.PNG)
