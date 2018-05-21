@@ -4,6 +4,7 @@ Casual flow diagram
 ![Casual Loop Diagram](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Casual%20loop%20diagram.png)
 
 
+
 Stock flow model
 ![Stock Flow Model](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Stock%20flow%20model.png)
 
