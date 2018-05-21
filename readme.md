@@ -1,7 +1,7 @@
 ## Indus River Basin Water Management Modeling and Decision Support
 
 ##### Contributors
-University of Utah and Mehran University of Engineering & Technology
+University of Utah, University of Nevada Las Vegas, and Mehran University of Engineering & Technology
 
 -----------
 ### Indus Basin
