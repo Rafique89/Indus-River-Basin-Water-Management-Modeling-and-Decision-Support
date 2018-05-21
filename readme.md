@@ -31,14 +31,14 @@ The USAID-funded U.S.-Pakistan Center for Advanced Studies in Pakistan (USPCAS-W
 
 ### Summary of Objectives
 
-#### Objective 1 
+#### Objective 1 - Database for Upper and Lower Indus Basin
 The goals of this objective were to establish a data sharing portal and develop water management model for informed decision making among organizations responsible for water planning and governance at national level. And the second goal was capacity building of water management sector for implementing the portal and water management model to develop a decision support system for improving water governance to tackle any future water crisis in Pakistan.  
 
-#### Objective 2
+#### Objective 2 - Water Management Models
 Indus Basin is one of the largest river basins in the world, which provides a major portion of water to the population of approximately 100 million. The future availability of the water due to uncertainty in precipitation and temperature possess an immense threat for the inhabitants of this area. It is therefore important to quantify the changes in the future precipitation and temperature to determine the probable impacts on the water availability and hence providing a way forward to improve the system efficiency. This objectives focuses on downscaling of precipitation and mean temperature simulations, from an ensemble of 10 GCMs that participated in the Coupled Model Intercomparison Project Phase-5 (CMIP5) under two Representative Concentration Pathways (RCP4.5 and RCP8.5), to 1 km resolution using the quantile mapping-delta (QMD) method over Indus River Basin and Pakistan. The results indicated that the projected changes in the temperature is much more certain than precipitation.
 
-#### Objective 3
-Provide brief intro here
+#### Objective 3 - Informing Decision Making
 
-#### Objective 4
+
+#### Objective 4 - System Dynamics Model (System Dynamic Modelling of Impacts of Population Growth and Temperature)
 The changing climate and increasing population in developing countries are the most important external factors resulting in water scarcity and food security. To address the problems, this objective focuses towards creation of system dynamics model to evaluate the impacts of population increase and climate change on agriculture sector. The results based on different scenarios and probable future intervention strategies showed that there was no immdiate need to increase the area under cultivation, and enhancing the productivity of the are will suffice. For the water security, the rate in increase in population must be maintained at a value less than the baseline value.  
