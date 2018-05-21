@@ -39,7 +39,7 @@ The goals of objective 1 were to establish a data sharing portal and develop wat
 Provide brief description here
 
 #### Objective 3
-The changing climate and increasing population in developing countries are the most important external factors resulting in water scarcity and food security. To address the problems, this objective focuses towards creation of system dynamics model to evaluate the impacts of population increase and climate change on agriculture sector. The results based on different scenarios and probable future intervention strategies showed that there was no immdiate need to increase the area under cultivation, and enhancing the productivity of the are will suffice. For the water security, the rate in increase in population must be maintained at a value less than the baseline value.  
+Provide brief intro here
 
 #### Objective 4
-Provide brief description here
+The changing climate and increasing population in developing countries are the most important external factors resulting in water scarcity and food security. To address the problems, this objective focuses towards creation of system dynamics model to evaluate the impacts of population increase and climate change on agriculture sector. The results based on different scenarios and probable future intervention strategies showed that there was no immdiate need to increase the area under cultivation, and enhancing the productivity of the are will suffice. For the water security, the rate in increase in population must be maintained at a value less than the baseline value.  
