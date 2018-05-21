@@ -10,12 +10,12 @@ For the UIB, Water Evaluation and Planning (WEAP) model was developed for Tarbel
 The WEAP model results of current practices of the Tarbela dam showed that the system’s reliability, resilience and vulnerability for water demand for irrigation was 45%, 14%, and 23,423 cfs, respectively, for hydropower 37%, 3%, and 291 MW. Reliability for flood control was 99.71 %. The recommended solutions to improve the system performance for water supply and hydropower objectives of the Tarbela was to shift the minimum level of the rule curve from May-June to April-May. And for flood control was to increase the maximum hydraulic outflow from the reservoir to 400,000 cfs. The recommended operations would increase RRV by 17%, 67%, and 7%, respectively, for the water supply objective and 34%, 346%, and 22%, respectively, for hydropower generation compared to the historical reservoir performance. The flood control reliability would increase by only 0.3%. The model result for Mangla based on the historic operations showed that the RRVs for the Irrigation demand was 60.17%, 3.1%, 93.8%, respectively, and for Hydropower generation was 90.88%, 3.094%, 41.4%, respectively.  The recommended operations for the Mangla were to shift to minimum reservoir level in February – March instead of March – April which showed improvement in all RRVs of Irrigation and Hydropower demand. There was no affect noted for the Flood control objective with the increase of hydraulic outflow from the dam.
 
 ![Tarbela rule curve](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Tabela%20rule%20curve.PNG)
+
 Tarbela Dam rule curve
 
 ![Maximum hydraulic outflow](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/Max%20hydraulic%20outflow.PNG)
 
 Maximum hydraulic outflow from the reservoir
-
 
 ![RRV improvement](https://github.com/Rafique89/Indus-River-Basin-Water-Management-Modeling-and-Decision-Support/blob/master/Figures/RRV%20Improvement.PNG)
 
